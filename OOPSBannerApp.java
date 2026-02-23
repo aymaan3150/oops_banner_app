@@ -5,7 +5,7 @@
  * and iterating through them with a for-each loop, eliminating repetitive
  * print statements and improving readability.
  */
-public class oopsbanner {
+public class OOPSBannerApp {
     public static void main(String[] args) {
 
         //Create a String array to store all 7 lines
